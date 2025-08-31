@@ -1,6 +1,6 @@
 ## exercice 3 : nv difficile
 
-""" calculer le Ne terme de la suite : u_0 = 5 et u_{n+1} = 3*u_{n} + 12 """
+""" calculer le Ne terme de la suite : u_0 = 5 et u_{n+1} = 3*u_{n} + 12 et tracer le graphe des valeurs """
 
 N = 4
 

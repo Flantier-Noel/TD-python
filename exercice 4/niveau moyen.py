@@ -1,7 +1,7 @@
 ## exercice 3 : nv facile
 
 """ calculer le Ne terme de la suite : Fibo_0 = 0, Fibo_1 = 1, Fibo_{n+2} = Fibo_{n+1} + Fibo_{n} 
-    SANS nouvelle variable"""
+    SANS nouvelle variable """
 
 N = 4
 
