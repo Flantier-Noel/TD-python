@@ -1,6 +1,6 @@
 ## exercice 1 : correction
 
-""" étant donnés les entiers a et b, le but est d'inverser leurs valeurs """
+""" étant donnés les entiers a et b, inverser leurs valeurs """
 
 a = 57
 b = 21

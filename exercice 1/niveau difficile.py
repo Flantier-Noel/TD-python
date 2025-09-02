@@ -1,6 +1,6 @@
 ## exercice 1 : nv facile
 
-""" étant donnés les entiers a et b, le but est d'inverser leurs valeurs SANS nouvelle variable"""
+""" étant donnés les entiers a et b, inverser leurs valeurs SANS nouvelle variable"""
 
 a = 57
 b = 21
