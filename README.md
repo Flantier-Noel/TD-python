@@ -37,3 +37,13 @@ Exercice 7 :
 Exercice 8 :
 
     vérifier si un des élément de la liste L vérifie f:('a->bool)
+
+Exercice 9 :
+
+    le but est de trier la liste L dans l'ordre croissant
+    |-> selon un tri par insertion en place
+
+Exercice 10 :
+
+    le but est de trier la liste L dans l'ordre croissant
+    |-> selon un tri fusion
