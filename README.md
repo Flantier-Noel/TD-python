@@ -47,3 +47,8 @@ Exercice 10 :
 
     le but est de trier la liste L dans l'ordre croissant
     |-> selon un tri fusion
+
+Exercice 11 :
+
+    le but est de calculer a**n
+    |-> en O(log(n))
