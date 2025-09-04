@@ -53,3 +53,7 @@ Exercice 11 :
 
     le but est de calculer a**n
     |-> en O(log(n))
+
+Exercice 12 :
+
+    le but est de trouver un point d'annulation de f:('float->'float) par dichotomie dans [a,b]
