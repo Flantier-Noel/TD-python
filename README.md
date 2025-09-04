@@ -2,6 +2,7 @@
 Un TD de révision/travail en Python avec correction
 
 Exercice 1 :
+
     étant donnés les entiers a et b, le but est d'inverser leurs valeurs
     |-> SANS nouvelle variable
 
