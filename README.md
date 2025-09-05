@@ -57,3 +57,7 @@ Exercice 11 :
 Exercice 12 :
 
     le but est de trouver un point d'annulation de f:('float->'float) par dichotomie dans [a,b]
+
+Exercice 13 :
+
+    décomposer X en base n
