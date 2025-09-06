@@ -2,9 +2,16 @@
 
 """ décomposer X en base n """
 
-X = 72
-n = 8
+X = 372
+n = 7
 
+rest = X
+pow_ind = 0
+decomp = []
+while rest ... :
+    val = rest ...
+    rest = ...
+    pow_ind = ...
+    decomp.append(val)
 
-
-print(decomp) # on veut []
+print(decomp) # on veut [1, 4, 0, 1]

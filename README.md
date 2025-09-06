@@ -61,3 +61,9 @@ Exercice 12 :
 Exercice 13 :
 
     décomposer X en base n
+    |-> SANS calcul des (n^i)_i
+
+Exercice 14 :
+
+    trouver l'écriture décimale de X écrit en base n
+    |-> SANS calcul des (n^i)_i
