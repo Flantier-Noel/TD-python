@@ -67,3 +67,8 @@ Exercice 14 :
 
     trouver l'écriture décimale de X écrit en base n
     |-> SANS calcul des (n^i)_i
+
+Exercice 15 :
+
+    vérifier s'il existe des doublons dans la liste L
+    | en O(len(L))
